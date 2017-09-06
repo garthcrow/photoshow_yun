@@ -1,2 +1,2 @@
 # photoshow_yun
-Photoshow for Yunohost
+Photoshow for Yunohost V2.6
